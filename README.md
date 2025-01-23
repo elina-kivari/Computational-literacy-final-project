@@ -10,8 +10,9 @@ Here is a list of the files associated with this project.
 
 ## Research questions
 1.	Which genres have the highest and lowest overall scores on IMDb?
-2.	What makes the highest ranked movies of the best genre so good according to reviewers?
-3.	What makes the lowest ranked movies of the worst genre so bad according to reviewers?
+2.	Which movies are the top five in the highest ranked genre and which movies are the last five in the lowest ranked genre?
+3.	What makes the highest ranked movies of the best genre so good according to reviewers?
+4.	What makes the lowest ranked movies of the worst genre so bad according to reviewers?
 
 ## Data
 - The tabular data containing e.g. the genres and scores of the movies can be obtained from kaggle. It is titled IMDB movies dataset, and the link is https://www.kaggle.com/datasets/ashpalsingh1525/imdb-movies-dataset.
